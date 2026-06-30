@@ -12,11 +12,4 @@
 - **데이터·인프라** — MySQL · PostgreSQL · Redis · Elasticsearch · AWS(ECS·EKS·RDS·Lambda·SQS) · Docker · Kubernetes · Terraform
 - **프론트엔드** — React · Next.js
 
-### 현재
-광고·마케팅·데이터 도메인에서 0to1 제품을 함께 세울 팀을 찾고 있습니다.
-
-### 대표 프로젝트
-- **investnote** — 외부 API 폴백·캐싱·증분 수집을 적용한 개인 투자자용 매매일지 앱 (FastAPI + Capacitor, 양 스토어 출시·운영)
-- **pixelwave-web**
-
 📫 freshope@gmail.com
